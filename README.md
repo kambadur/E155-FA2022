@@ -1,5 +1,5 @@
 # E155-FA2022
-Following along Prof. Josh Brake's lectures on MIcroPS.  
+Following along Prof. Josh Brake's lectures on MicroPS.  
 Details:  
 http://pages.hmc.edu/brake/class/e155/fa22/  
 https://github.com/joshbrake/E155-FA2022  
